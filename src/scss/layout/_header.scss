@@ -1,0 +1,46 @@
+.header {
+  color: red;
+  position: relative;
+  top: 0;
+  z-index: 2;
+  padding: map-get($spaces, s ) map-get($spaces, m );
+  max-width: 100vw;
+  font-size: map-get($spaces, s );
+  font-weight: bolder;
+  opacity: 0;
+
+
+  .listUnstyled{
+    display: flex;
+    list-style: none;
+    justify-content: flex-end;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 50px;
+    text-transform: uppercase;
+    color: map-get($colors, whiteColor );
+    max-width: 100vw;
+  }
+
+  &__item {
+    vertical-align: middle;
+    text-decoration: none;
+    color: map-get($colors, whiteColor );
+  }
+  
+  &__link{
+    vertical-align: middle;
+    text-decoration: none;
+    color: map-get($colors, whiteColor );
+  
+    &:hover {
+      color: map-get($colors, dynamicColor);
+    }
+
+
+
+  }
+
+
+}

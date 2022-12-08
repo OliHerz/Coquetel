@@ -1,0 +1,22 @@
+$colors: (
+    whiteColor: #FFFFFF,
+    darkColor: #333333,
+    backgroundColor: #E2D2BC,
+    greyColor: #DEDEDE,
+    brownFilterPic: #8A6E52,
+    dynamicColor: #FAA41B,
+);
+
+// Typographies
+$typo :(
+    title: ('Lobster', lobster),
+    text: ('Montserrat', Montserrat)
+);
+
+// Espaces
+$spaces: (
+  xs: 12px,
+  s:  24px,
+  m:  48px,
+  l:  96px
+);
