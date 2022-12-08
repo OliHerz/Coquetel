@@ -1,12 +1,12 @@
 mixin landing(imgName, imgAlt, filtreImage, logo, titleLine, pageTitle, excerpt, arrowDown)
-    section.landing 
-      div.landing__backgroundLanding 
-        img(src="../images/headers/${imgName}.jpg", alt=`{imgAlt}`)
-        div.landing__filterHeader
-      div.landing__slogan
-        img(src="../images/assets/${imgName}.jpg", alt=`{imgAlt}`)
-        span.landing__titleLine 
-        h1.langin_pageTitle
-      div.landing__textIntro
-        p.landing__excerptIntro 
-        div.landing__arrowDown
+  section.landing 
+    div.landing__backgroundLanding 
+      img.landing__mainImg(src="../images/headers/${imgName}.jpg", alt=`{imgAlt}`)
+      div.landing__filterHeader
+    div.landing__slogan
+      img(src=`../images/headers/${imgName}.jpg`, alt=`{imgAlt}`)
+      span.landing__titleLine 
+      h1.langin_pageTitle=  title
+    div.landing__textIntro
+      p.landing__excerptIntro= text
+      div.landing__arrowDown= arrow

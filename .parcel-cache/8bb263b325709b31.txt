@@ -1,4 +1,4 @@
-6571
+6570
 78C:\Users\GEN-02\Desktop\Projets\Coquetel\src\images\unsplash\Devnature Bar.jpg133133370140000000 0
 113C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\glib\gmain.h133117882010000000 0
 91C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\svgo\lib\svgo\css-select-adapter.d.ts133149932646654125 0
@@ -42,6 +42,15 @@
 85C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\caniuse-lite\data\regions\MX.js133149932684343544 0
 72C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\path-parse\LICENSE133149933696960870 0
 51C:\Users\GEN-02\Desktop\Projets\Coquetel\src\images133149936545503770 1
+123C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\sharp\vendor\8.13.3\win32-x64\include\libgsf-1\gsf\gsf-output-iconv.h133117882010000000 0
+95C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\lmdb\node_modules\node-addon-api\index.js133149932599827958 0
+69C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\bl\package.json133149933721927181 0
+72C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\terser\lib\size.js133149932632730656 0
+94C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\caniuse-lite\data\features\web-serial.js133149932693145723 0
+65C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\pug-filters133149933720806855 1
+70C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\readdirp\LICENSE133149933696880903 0
+79C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\base64-js\base64js.min.js133149933701922125 0
+69C:\Users\GEN-02\Desktop\Projets\Coquetel\src\images\caroussel\A trier133149936537752602 1
 113C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\sharp\vendor\8.13.3\win32-x64\include\orc-0.4\orc\orcrule.h133117882010000000 0
 85C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\caniuse-lite\data\regions\IT.js133149932678021931 0
 62C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\css-tree133149932654095987 1
@@ -55,7 +64,7 @@
 82C:\Users\GEN-02\Desktop\Projets\Coquetel\src\images\unsplash\Tri\Sans alcool 3.jpg133140112440000000 0
 69C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\chalk\readme.md133149932576437276 0
 116C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\glib\ggettext.h133117882010000000 0
-45C:\Users\GEN-02\Desktop\Projets\Coquetel\dist133150127652465055 1
+45C:\Users\GEN-02\Desktop\Projets\Coquetel\dist133150117454201100 1
 75C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\.bin\browserslist.cmd133149932695546335 0
 92C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\cosmiconfig\dist\ExplorerBase.d.ts.map133149932597827460 0
 115C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\glib\gmacros.h133117882010000000 0
@@ -100,16 +109,6 @@
 85C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\caniuse-lite\data\regions\KP.js133149932679782551 0
 105C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\caniuse-lite\data\features\css-placeholder-shown.js133149932665778884 0
 77C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\to-regex-range\index.js133149933702242197 0
-102C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\@swc\helpers\src\_apply_decorated_descriptor.mjs133149932646734119 0
-72C:\Users\GEN-02\Desktop\Projets\Coquetel\src\images\headers\heading2.jpg133148386064302544 0
-84C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\htmlnano\lib\modules\custom.js133149932582463805 0
-98C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\@parcel\transformer-postcss\lib\constants.js133149932555792260 0
-114C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\glib\grcbox.h133117882010000000 0
-110C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\sharp\vendor\8.13.3\win32-x64\include\harfbuzz\hb-font.h133117882010000000 0
-103C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\sharp\vendor\8.13.3\win32-x64\include\vips\util.h133117882010000000 0
-64C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\color-name133149932562113709 1
-78C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\source-map\lib\base64.js133149932579823074 0
-86C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\css-tree\lib\generator\create.js133149932609030309 0
 88C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\sharp\node_modules\.bin\semver.cmd133149933760740789 0
 69C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\sharp\README.md133149933739695505 0
 72C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\ieee754\index.d.ts133149933715365534 0
@@ -122,7 +121,7 @@
 116C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\sharp\vendor\8.13.3\win32-x64\include\libxml2\libxml\nanoftp.h133117882010000000 0
 63C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\type-fest133149932599427863 1
 66C:\Users\GEN-02\Desktop\Projets\Coquetel\src\pug\includes\main.pug133148805335226769 0
-60C:\Users\GEN-02\Desktop\Projets\Coquetel\src\scss\components133150123443137326 1
+60C:\Users\GEN-02\Desktop\Projets\Coquetel\src\scss\components133149934906836562 1
 82C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\css-tree\lib\syntax\function133149932652735647 1
 72C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\tar-stream\pack.js133149933716325716 0
 70C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\wrappy\README.md133149933701922125 0
@@ -131,7 +130,7 @@
 124C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\sharp\vendor\8.13.3\win32-x64\include\libgsf-1\gsf\gsf-doc-meta-data.h133117882010000000 0
 56C:\Users\GEN-02\Desktop\Projets\Coquetel\src\scss\layout133149934907411273 1
 80C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\source-map\source-map.d.ts133149932599427863 0
-60C:\Users\GEN-02\Desktop\Projets\Coquetel\src\scss\style.scss133150123383030900 0
+60C:\Users\GEN-02\Desktop\Projets\Coquetel\src\scss\style.scss133150114332373065 0
 86C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\msgpackr\dist\unpack-no-eval.cjs133149932579478026 0
 98C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\@jridgewell\set-array\dist\set-array.mjs.map133149932564194221 0
 79C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\acorn\dist\acorn.mjs.d.ts133149932598787695 0
@@ -189,7 +188,7 @@
 62C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\htmlnano133149932643453325 1
 88C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\resolve\test\resolver\invalid_main133149933745056880 1
 85C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\lmdb\dependencies\lz4\lib\lz4.h133149932647534335 0
-58C:\Users\GEN-02\Desktop\Projets\Coquetel\src\pug\mixin.pug133150134251511964 0
+58C:\Users\GEN-02\Desktop\Projets\Coquetel\src\pug\mixin.pug133150030527661487 0
 110C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\sharp\vendor\8.13.3\win32-x64\include\freetype2\freetype133117882010000000 1
 97C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\@parcel\core\test\fixtures\invalid-distpath133149932660097470 1
 111C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\Doxyfile133149932575156949 0
@@ -211,23 +210,6 @@
 109C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\@parcel\transformer-posthtml\lib\PostHTMLTransformer.js133149932567875141 0
 70C:\Users\GEN-02\Desktop\Projets\Coquetel\src\scss\layout\_section.scss133148073735880850 0
 121C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\gio\gdatagrambased.h133117882010000000 0
-105C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\caniuse-lite\data\features\requestanimationframe.js133149932687464326 0
-92C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\sharp\src\libvips\cplusplus\VError.cpp133149933728648820 0
-111C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest2.c133149932637131727 0
-71C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\msgpackr\index.js133149932590465660 0
-74C:\Users\GEN-02\Desktop\Projets\Coquetel\src\images\headers\headerMenu.jpg133137713860000000 0
-81C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\htmlnano\lib\presets\max.js133149932595426940 0
-102C:\Users\GEN-02\Desktop\Projets\Coquetel\src\images\unsplash\alessio-zaccaria-zt0p3BYtDfM-unsplash.jpg133137713300000000 0
-87C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\svgo\plugins\removeXMLProcInst.js133149932637771884 0
-109C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\@parcel\core\test\fixtures\targets-default-distdir-none133149932661537834 1
-78C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\svgo\lib\svgo\jsAPI.d.ts133149932646734119 0
-89C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\caniuse-lite\data\regions\alt-sa.js133149932608470163 0
-72C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\domhandler\LICENSE133149932540348277 0
-98C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\@parcel\workers\src\process\ProcessWorker.js133149932615751942 0
-121C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\sharp\vendor\8.13.3\win32-x64\include\freetype2\freetype\ftlcdfil.h133117882010000000 0
-137C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\sharp\vendor\8.13.3\win32-x64\include\gdk-pixbuf-2.0\gdk-pixbuf\gdk-pixbuf-loader.h133117882010000000 0
-71C:\Users\GEN-02\Desktop\Projets\Coquetel\src\scss\components\_card.scss133150126730406455 0
-102C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\css-select\lib\pseudo-selectors\aliases.d.ts.map133149932597587579 0
 103C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\sharp\vendor\8.13.3\win32-x64\include\vips\type.h133117882010000000 0
 89C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\caniuse-lite\data\regions\alt-eu.js133149932604149056 0
 82C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\node-addon-api\noexcept.gypi133149932568995438 0
@@ -275,7 +257,7 @@
 102C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\simple-swizzle\node_modules\is-arrayish\index.js133149933702402237 0
 105C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\caniuse-lite\data\features\contentsecuritypolicy.js133149932653375833 0
 117C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\@parcel\node-resolver-core\test\fixture\packages\source\dist.js133149932613591426 0
-64C:\Users\GEN-02\Desktop\Projets\Coquetel\src\pug\pages\index.pug133150130369748859 0
+64C:\Users\GEN-02\Desktop\Projets\Coquetel\src\pug\pages\index.pug133149932019635132 0
 81C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\svgo\plugins\removeXMLNS.js133149932637451795 0
 81C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\css-tree\lib\lexer\error.js133149932627034791 0
 70C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\svgo\lib\path.js133149932620873226 0
@@ -287,7 +269,7 @@
 75C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\sharp\lib\platform.js133149933738015100 0
 114C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\caniuse-lite\data\features\img-naturalwidth-naturalheight.js133149932676581599 0
 123C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\sharp\vendor\8.13.3\win32-x64\include\freetype2\freetype\ftchapters.h133117882010000000 0
-59C:\Users\GEN-02\Desktop\Projets\Coquetel\src\images\headers133150129849911602 1
+59C:\Users\GEN-02\Desktop\Projets\Coquetel\src\images\headers133149936543877842 1
 124C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\@parcel\core\test\fixtures\invalid-target-source-not-file\package.json133149932660657619 0
 96C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\utility-types\dist\functional-helpers.d.ts133149932599747935 0
 137C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-alias-glob\src\test.js133149932642813164 0
@@ -297,6 +279,14 @@
 98C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\utility-types\dist\aliases-and-guards.js.map133149932581263327 0
 103C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\node-abi\node_modules\semver\ranges\intersects.js133149933732969849 0
 97C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\sharp\vendor\8.13.3\win32-x64\platform.json133119484170000000 0
+105C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\caniuse-lite\data\features\requestanimationframe.js133149932687464326 0
+92C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\sharp\src\libvips\cplusplus\VError.cpp133149933728648820 0
+111C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest2.c133149932637131727 0
+71C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\msgpackr\index.js133149932590465660 0
+74C:\Users\GEN-02\Desktop\Projets\Coquetel\src\images\headers\headerMenu.jpg133137713860000000 0
+81C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\htmlnano\lib\presets\max.js133149932595426940 0
+102C:\Users\GEN-02\Desktop\Projets\Coquetel\src\images\unsplash\alessio-zaccaria-zt0p3BYtDfM-unsplash.jpg133137713300000000 0
+87C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\svgo\plugins\removeXMLProcInst.js133149932637771884 0
 76C:\Users\GEN-02\Desktop\Projets\Coquetel\src\images\headers\HeaderEvents.jpg133137716780000000 0
 119C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\gobject\gmarshal.h133117882010000000 0
 85C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\caniuse-lite\data\regions\MK.js133149932683543338 0
@@ -312,7 +302,7 @@
 112C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\gio\gtask.h133117882010000000 0
 102C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\readable-stream\lib\internal\streams\pipeline.js133149933732089636 0
 93C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\caniuse-lite\data\features\css-table.js133149932668019450 0
-67C:\Users\GEN-02\Desktop\Projets\Coquetel\src\images\headers\1stpage133150129849911602 1
+67C:\Users\GEN-02\Desktop\Projets\Coquetel\src\images\headers\1stpage133149936545100839 1
 78C:\Users\GEN-02\Desktop\Projets\Coquetel\src\images\unsplash\header drinks.jpg133137712840000000 0
 80C:\Users\GEN-02\Desktop\Projets\Coquetel\src\images\headers\1stpage\heading3.jpg133148386367391876 0
 103C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\sharp\vendor\8.13.3\win32-x64\include\vips\sbuf.h133117882010000000 0
@@ -346,20 +336,21 @@
 80C:\Users\GEN-02\Desktop\Projets\Coquetel\src\images\headers\1stpage\heading1.jpg133148386215286517 0
 90C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\lmdb\dependencies\lz4\lib\lz4frame.c133149932619112778 0
 86C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\svgo\plugins\removeDimensions.js133149932627274901 0
+135C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\source-not-symlinked\dist.js133149932608710200 0
+127C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\gio\gtlsserverconnection.h133117882010000000 0
+121C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\sharp\vendor\8.13.3\win32-x64\include\pango-1.0\pango\pango-types.h133117882010000000 0
+64C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\nullthrows133149932573156447 1
+64C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\is-extglob133149933710484269 1
+80C:\Users\GEN-02\Desktop\Projets\Coquetel\src\images\headers\1stpage\heading2.jpg133148386064302544 0
+106C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\resolve\test\resolver\symlinked\package\package.json133149933746177170 0
+75C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\parent-module\license133149932556192246 0
+103C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\crypto.c133149932616232070 0
+65C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\is-arrayish133149932579823074 1
 80C:\Users\GEN-02\Desktop\Projets\Coquetel\src\images\headers\1stpage\heading4.jpg133148386024353050 0
 94C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\css-tree\lib\syntax\pseudo\common\nth.js133149932646414031 0
 68C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\yaml\README.md133149932633050719 0
 93C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\caniuse-lite\data\features\dommatrix.js133149932671220272 0
 97C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\sharp\vendor\8.13.3\win32-x64\include\png.h133117882010000000 0
-123C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\sharp\vendor\8.13.3\win32-x64\include\libgsf-1\gsf\gsf-output-iconv.h133117882010000000 0
-95C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\lmdb\node_modules\node-addon-api\index.js133149932599827958 0
-69C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\bl\package.json133149933721927181 0
-72C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\terser\lib\size.js133149932632730656 0
-94C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\caniuse-lite\data\features\web-serial.js133149932693145723 0
-65C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\pug-filters133149933720806855 1
-70C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\readdirp\LICENSE133149933696880903 0
-79C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\base64-js\base64js.min.js133149933701922125 0
-69C:\Users\GEN-02\Desktop\Projets\Coquetel\src\images\caroussel\A trier133149936537752602 1
 60C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\parcel133149932589985553 1
 69C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\xxhash-wasm\cjs133149932573156447 1
 124C:\Users\GEN-02\Desktop\Projets\Coquetel\src\images\caroussel\Nourriture\274219917_1163473887596736_558255613292225829_n.jpg133127076600000000 0
@@ -831,6 +822,15 @@
 70C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\resolve\async.js133149933728088695 0
 111C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\resolve\test\resolver\symlinked\_\symlink_target\.gitkeep133149933711284467 0
 88C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\type-fest\source\set-required.d.ts133149932619512886 0
+102C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\@swc\helpers\src\_apply_decorated_descriptor.mjs133149932646734119 0
+84C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\htmlnano\lib\modules\custom.js133149932582463805 0
+98C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\@parcel\transformer-postcss\lib\constants.js133149932555792260 0
+114C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\glib\grcbox.h133117882010000000 0
+110C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\sharp\vendor\8.13.3\win32-x64\include\harfbuzz\hb-font.h133117882010000000 0
+103C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\sharp\vendor\8.13.3\win32-x64\include\vips\util.h133117882010000000 0
+64C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\color-name133149932562113709 1
+78C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\source-map\lib\base64.js133149932579823074 0
+86C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\css-tree\lib\generator\create.js133149932609030309 0
 65C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\tar-fs\test133149933729448996 1
 89C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\svgo\plugins\removeEditorsNSData.js133149932629035294 0
 66C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\color-string133149933710484269 1
@@ -869,17 +869,17 @@
 66C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\sass\sass.js133149933740095619 0
 100C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\@parcel\node-resolver-core\test\fixture\bar.js133149932570275750 0
 65C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\deep-extend133149933717045925 1
-134C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-node\parcel_sourcemap_wasm_bg.wasm133149932644733664 0
-79C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\sharp\node_modules\semver133149933739775523 1
-65C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\detect-libc133149932574036678 1
-74C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\pug-runtime\build.js133149933702242197 0
-81C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\util-deprecate\package.json133149933696560804 0
-110C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\sharp\vendor\8.13.3\win32-x64\include\libexif\exif-mem.h133117882010000000 0
-79C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\type-fest\ts41\index.d.ts133149932600628171 0
 81C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\character-parser\.npmignore133149933702162198 0
 85C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\caniuse-lite\data\regions\MH.js133149932683383286 0
 87C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\@parcel\core\lib\public\Target.js133149932655216417 0
 103C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\with\.github\workflows\rollingversions-canary.yml133149933732569748 0
+110C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\sharp\vendor\8.13.3\win32-x64\include\libexif\exif-mem.h133117882010000000 0
+79C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\type-fest\ts41\index.d.ts133149932600628171 0
+134C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-node\parcel_sourcemap_wasm_bg.wasm133149932644733664 0
+74C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\pug-runtime\build.js133149933702242197 0
+79C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\sharp\node_modules\semver133149933739775523 1
+65C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\detect-libc133149932574036678 1
+81C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\util-deprecate\package.json133149933696560804 0
 75C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\svgo\lib\svgo-node.js133149932639772406 0
 83C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\csso\lib\clean\Declaration.js133149932615911988 0
 77C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\@lezer\lr\dist\index.js133149932570035689 0
@@ -1032,15 +1032,6 @@
 88C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\@parcel\core\lib\public\Symbols.js133149932654976216 0
 85C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\caniuse-lite\data\regions\BE.js133149932636971689 0
 57C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\ini133149933710484269 1
-135C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\source-not-symlinked\dist.js133149932608710200 0
-127C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\gio\gtlsserverconnection.h133117882010000000 0
-121C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\sharp\vendor\8.13.3\win32-x64\include\pango-1.0\pango\pango-types.h133117882010000000 0
-64C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\nullthrows133149932573156447 1
-64C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\is-extglob133149933710484269 1
-106C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\resolve\test\resolver\symlinked\package\package.json133149933746177170 0
-75C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\parent-module\license133149932556192246 0
-103C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\crypto.c133149932616232070 0
-65C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\is-arrayish133149932579823074 1
 72C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\yaml\dist\types.js133149932626874740 0
 97C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\@parcel\fs-search\fs-search.darwin-x64.node133149932598947746 0
 67C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\is-expression133149933714965393 1
@@ -1073,10 +1064,10 @@
 71C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\picomatch\LICENSE133149933696800865 0
 90C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\@parcel\transformer-posthtml\LICENSE133149932541228500 0
 122C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\gio\gpropertyaction.h133117882010000000 0
-120C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\sharp\vendor\8.13.3\win32-x64\include\pango-1.0\pango\pango-item.h133117882010000000 0
-85C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\github-from-package\test\c.json133149933722567289 0
 82C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\nth-check\lib\parse.d.ts.map133149932600948260 0
 81C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\lightningcss-win32-x64-msvc133149932555151977 1
+120C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\sharp\vendor\8.13.3\win32-x64\include\pango-1.0\pango\pango-item.h133117882010000000 0
+85C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\github-from-package\test\c.json133149933722567289 0
 71C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\lines-and-columns133149932563234004 1
 76C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\import-fresh\readme.md133149932563474050 0
 117C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\sharp\vendor\8.13.3\win32-x64\include\libxml2\libxml\nanohttp.h133117882010000000 0
@@ -1727,7 +1718,7 @@
 83C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\caniuse-lite\data\browsers.js133149932645453816 0
 84C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\resolve\test\precedence\bbb.js133149933732409713 0
 101C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\sharp\node_modules\node-addon-api\noexcept.gypi133149933715205443 0
-64C:\Users\GEN-02\Desktop\Projets\Coquetel\dist\index.e8265c92.css133150127651939706 0
+64C:\Users\GEN-02\Desktop\Projets\Coquetel\dist\index.e8265c92.css133150117452360684 0
 83C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\mdn-data\css\definitions.json133149932590465660 0
 96C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\caniuse-lite\data\features\rel-noopener.js133149932687304269 0
 75C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\tunnel-agent\index.js133149933712804861 0
@@ -2080,6 +2071,9 @@
 77C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\svgo\lib\svgo\config.js133149932600228054 0
 120C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\sharp\vendor\8.13.3\win32-x64\include\pango-1.0\pango\pangocairo.h133117882010000000 0
 92C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\svgo\lib\svgo\css-style-declaration.js133149932614151544 0
+109C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\@parcel\core\test\fixtures\targets-default-distdir-none133149932661537834 1
+78C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\svgo\lib\svgo\jsAPI.d.ts133149932646734119 0
+89C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\caniuse-lite\data\regions\alt-sa.js133149932608470163 0
 79C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\svgo\dist\svgo.browser.js133149932643613380 0
 93C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\supports-preserve-symlinks-flag\.github133149933724807854 1
 75C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\assert-never\index.ts133149933715205443 0
@@ -3023,6 +3017,11 @@
 82C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\css-tree\lib\parser\index.js133149932637771884 0
 141C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\sharp\vendor\8.13.3\win32-x64\include\gdk-pixbuf-2.0\gdk-pixbuf\gdk-pixbuf-enum-types.h133117882010000000 0
 82C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\css-tree\lib\syntax\index.js133149932638252007 0
+72C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\domhandler\LICENSE133149932540348277 0
+98C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\@parcel\workers\src\process\ProcessWorker.js133149932615751942 0
+121C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\sharp\vendor\8.13.3\win32-x64\include\freetype2\freetype\ftlcdfil.h133117882010000000 0
+137C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\sharp\vendor\8.13.3\win32-x64\include\gdk-pixbuf-2.0\gdk-pixbuf\gdk-pixbuf-loader.h133117882010000000 0
+102C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\css-select\lib\pseudo-selectors\aliases.d.ts.map133149932597587579 0
 137C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\sharp\vendor\8.13.3\win32-x64\include\gdk-pixbuf-2.0\gdk-pixbuf\gdk-pixbuf-macros.h133117882010000000 0
 138C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\sharp\vendor\8.13.3\win32-x64\include\gdk-pixbuf-2.0\gdk-pixbuf\gdk-pixbuf-marshal.h133117882010000000 0
 83C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\resolve\test\shadowed_core.js133149933743056388 0
@@ -4477,7 +4476,7 @@
 77C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\get-intrinsic\README.md133149933723287444 0
 110C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\@parcel\utils\test\input\sourcemap\referenced-min.js.map133149932650094956 0
 72C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\get-intrinsic\test133149933711924610 1
-63C:\Users\GEN-02\Desktop\Projets\Coquetel\dist\pages.bec318b7.js133150127651939706 0
+63C:\Users\GEN-02\Desktop\Projets\Coquetel\dist\pages.bec318b7.js133150117453480915 0
 97C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\@parcel\package-manager\src\NodeResolver.js133149932616152032 0
 87C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\get-intrinsic\.github\FUNDING.yml133149933724967886 0
 73C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\css-tree\lib\common133149932651615339 1
@@ -4712,6 +4711,8 @@
 82C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\css-what\lib\es\stringify.js133149932582943807 0
 82C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\@parcel\transformer-json\src133149932560193227 1
 80C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\css-what\lib\es\types.d.ts133149932614311576 0
+94C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\@parcel\node-resolver-core\src\_empty.js133149932563073979 0
+102C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\caniuse-lite\data\features\css-math-functions.js133149932664018479 0
 98C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\caniuse-lite\data\features\viewport-units.js133149932692585582 0
 78C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\css-what\lib\es\types.js133149932588305115 0
 73C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\css-tree\lib\walker133149932639772406 1
@@ -5082,8 +5083,6 @@
 101C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\caniuse-lite\data\features\css-marker-pseudo.js133149932663778406 0
 82C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\@parcel\source-map\README.md133149932609910498 0
 93C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\caniuse-lite\data\features\css-masks.js133149932663858426 0
-94C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\@parcel\node-resolver-core\src\_empty.js133149932563073979 0
-102C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\caniuse-lite\data\features\css-math-functions.js133149932664018479 0
 106C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\caniuse-lite\data\features\css-media-range-syntax.js133149932664178500 0
 102C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\@babel\types\lib\definitions\placeholders.js.map133149933747217419 0
 103C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\caniuse-lite\data\features\css-media-scripting.js133149932664338559 0
@@ -6567,6 +6566,6 @@
 69C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\.bin\semver.cmd133149932695546335 0
 67C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\.bin\svgo.ps1133149932695546335 0
 69C:\Users\GEN-02\Desktop\Projets\Coquetel\node_modules\.bin\terser.ps1133149932695626370 0
-68C:\Users\GEN-02\Desktop\Projets\Coquetel\dist\index.e8265c92.css.map133150127652156192 0
-56C:\Users\GEN-02\Desktop\Projets\Coquetel\dist\index.html133150127651939706 0
-67C:\Users\GEN-02\Desktop\Projets\Coquetel\dist\pages.bec318b7.js.map133150127652261003 0
+68C:\Users\GEN-02\Desktop\Projets\Coquetel\dist\index.e8265c92.css.map133150117452760736 0
+56C:\Users\GEN-02\Desktop\Projets\Coquetel\dist\index.html133150117452360684 0
+67C:\Users\GEN-02\Desktop\Projets\Coquetel\dist\pages.bec318b7.js.map133150117454041050 0
