@@ -1,7 +1,24 @@
-// .main {
-//   width: 100wv;
-//   height: 100hv;
-// }
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+header {
+  background-color: transparent;
+}
+
+body {
+  font-family: map-get($typo, 'Montserrat');
+  background-color: map-get($colors, backgroundColor);
+}
+
+
+h1, h2 {
+  font-family: map-get($typo, 'Lobster');
+}
+
+h3 {
+  font-family: map-get($typo, 'Montserrat' );
+}
 
 .backgroundHeader{
   width: 100vw;
