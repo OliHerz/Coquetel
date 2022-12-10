@@ -1,10 +1,10 @@
-mixin landing(imgName, imgAlt, filtreImage, logo, titleLine, pageTitle, excerpt, arrowDown)
+mixin landing(imgName, imgAlt, filtreImage, logoName, logoAlt, titleLine, pageTitle, excerpt, arrowDown)
   section.landing 
     div.landing__backgroundLanding 
-      img.landing__mainImg(src="../images/headers/${imgName}.jpg", alt=`{imgAlt}`)
+      img.landing__mainImg(src=`../../images/headers/${imgName}.jpg`, alt=`${ imgAlt }`)
       div.landing__filterHeader
     div.landing__slogan
-      img(src=`../images/headers/${imgName}.jpg`, alt=`{imgAlt}`)
+      img(src=`../../images/assets/logo/${ logoName }.png`, alt=` ${ logoAlt }`)
       span.landing__titleLine 
       h1.langin_pageTitle=  title
     div.landing__textIntro

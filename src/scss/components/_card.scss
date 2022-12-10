@@ -2,12 +2,34 @@
   height: 100vh;
   width: 100%;
   display: block;
+  z-index: 1;
 
   &__backgroundLanding{
 
   }
 
   &__mainImg{
-    
+    position: absolute;;
+    height: 100vh;
+    width: 100%;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    width: 100%;
+    z-index: 2;
+  }
+
+  &__filterHeader{
+    position: absolute;
+    height: 100vh;
+    width: 100%;
+    top: 0;
+    left: 0;
+    background-color: rgba(138, 110, 82, 0.3);
+    background-color: rgba(51, 51, 51, 0.6);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    z-index: 3;
   }
 }
