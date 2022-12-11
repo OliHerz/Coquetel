@@ -1,12 +1,12 @@
-mixin landing(imgName, imgAlt, filtreImage, logoName, logoAlt, titleLine, title, excerpt, arrowDown)
+mixin landing(imgName, imgAlt, filtreImage, logoName, logoAlt, titleLine, title, excerpt, arrowDown, arrowDown)
   article.landing
     img.landing__mainImg(src=`../../images/headers/${imgName}.jpg`, alt=`${ imgAlt }`)
     div.landing__filterHeader
-    article.landing__content
-      div.landing__slogan
-        img(src=`../../images/assets/logo/${ logoName }.png`, alt=` ${ logoAlt }` class="logoHeader")
-        div.landing__titleLine 
-        h1.landing__title= title
+    div.landing__slogan
+      img(src=`../../images/assets/logo/${ logoName }.svg`, alt=` ${ logoAlt }` class="logoHeader")
+      div.landing__titleLine 
+      h1.landing__title= title
     div.landing__textIntro= div
-      p.landing__excerptIntro= excerpt
-      div.landing__arrowDown= arrowDown
+      div.landing__text= div
+        p.landing__excerptIntro= excerpt
+      img(src=`../../images/assets/${ arrowDown }.png`, alt=` ${ arrowDown }` class="arrowDown")

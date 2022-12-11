@@ -4,22 +4,13 @@
   width: 100%;
   top: 0;
   left: 0;
-  grid-template-columns: repeat(12, 1fr);
-  grid-template-rows: repeat(12, 1fr);
-
-  &__background{
-    height: 100vh;
-    width: 100%;
-  }
+  grid-template-columns: repeat(24, 1fr);
+  grid-template-rows: repeat(24, 1fr);
 
   &__mainImg{
     position: absolute;
     height: 100vh;
     width: 100%;
-    height: 100vh;
-    width: 100%;
-    grid-column: 12/12;
-    grid-row: 12/12;
   }
 
   &__filterHeader{
@@ -28,23 +19,15 @@
     width: 100%;
     background-color: rgba(138, 110, 82, 0.3);
     background-color: rgba(51, 51, 51, 0.6);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    grid-column: 12/12;
-    grid-row: 12/12;
   }
 
-  &__content{
-    display: grid;
-    grid-template-columns: repeat(12, 1fr);
-    grid-template-rows: repeat(12, 1fr);
-    grid-column: 5/8;
-    grid-row: 4/8;
+  &__logoHeader{
   }
 
   &__slogan {
-    position: absolute;
+    grid-column: 8/18;
+    grid-row: 6/16;
+    z-index: 50;
   }
 
   &__titleLine {
@@ -58,24 +41,32 @@
 
   &__title{
     font-family: 'lobster';
-    font-size: 2rem;
+    font-size: 5rem;
     text-align: center;
+    font-weight: normal;
   }
 
   &__textIntro{
-    display: grid;
-    grid-column: 5/10;
-    grid-row: 10/12;
+    grid-column: 9/15;
+    grid-row: 21/24;
+    font-family: map-get($typo, 'text');
+    width: auto;
   }
 
   &__excerptIntro {
     position: absolute;
     color: map-get($colors, whiteColor);
-    justify-content: center;
+    font-size: 1.3rem;
+    text-align: center;
   }
 
-  &__sarrowDown{
-    position: absolute;
+  &__arrowDown{
+    position: relative;
+    width: 50px;
+    height: 50px;
+    z-index: 10;
+    grid-column: 12/12;
+    grid-row: 23/24;
   }
 
 
