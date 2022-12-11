@@ -2,7 +2,6 @@
   color: red;
   position: absolute;
   top: 0;
-  z-index: 10;
   padding: map-get($spaces, s ) map-get($spaces, m );
   max-width: 100vw;
   font-size: map-get($spaces, s );

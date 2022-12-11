@@ -12,9 +12,18 @@ body {
 }
 
 
+
 h1, h2 {
-  font-family: map-get($typo, 'Lobster');
+  font-family: map-get($typo, title);
+  font-size: 4rem;
+  color: map-get($colors, whiteColor);
+  text-align: center;
+  margin: 1%;
+  padding: 0;
+  letter-spacing: 1px;
+  text-transform: uppercase;
 }
+
 
 h3 {
   font-family: map-get($typo, 'Montserrat' );
