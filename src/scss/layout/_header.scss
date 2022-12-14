@@ -14,12 +14,18 @@
     height: auto;
   }
 
+  &__menu {
+    width: auto;
+    padding: 20px 0px;
+  }
+
 
   .listUnstyled{
     list-style: none;
-    margin: 0;
+    margin: auto;
     padding: 0;
     display: flex;
+    justify-content: center;
     gap: 50px;
     text-transform: uppercase;
     color: map-get($colors, whiteColor );
@@ -31,7 +37,6 @@
 
   & ul li {
     color: map-get($colors, whiteColor);
-    z-index: 50;
     text-align: center;
     
   }
@@ -46,7 +51,9 @@
     vertical-align: middle;
     text-decoration: none;
     color: map-get($colors, whiteColor );
-    z-index: 50;
+    font-weight: 700;
+    font-family: map-get($typo, text );
+    font-size: 1.2rem;
   
     &:hover {
       color: map-get($colors, dynamicColor);
