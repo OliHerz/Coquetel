@@ -1,4 +1,5 @@
 .landing {
+  position: relative;
   display: grid;
   height: 100vh;
   width: 100%;
@@ -22,12 +23,15 @@
   }
 
   &__logoHeader{
+    grid-column: 8/18;
+    height: auto ;
   }
 
   &__slogan {
     grid-column: 8/18;
-    grid-row: 6/16;
+    grid-row: 6/19;
     z-index: 50;
+    width: auto;
   }
 
   &__titleLine {
@@ -47,6 +51,7 @@
   }
 
   &__textIntro{
+    display: grid;
     grid-column: 9/15;
     grid-row: 21/24;
     font-family: map-get($typo, 'text');
@@ -58,6 +63,7 @@
     color: map-get($colors, whiteColor);
     font-size: 1.3rem;
     text-align: center;
+    grid-column: 7/18;
   }
 
   &__arrowDown{
