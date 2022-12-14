@@ -29,7 +29,7 @@
 
   &__slogan {
     grid-column: 8/18;
-    grid-row: 7/19;
+    grid-row: 6/19;
     z-index: 50;
     width: auto;
   }
@@ -53,10 +53,9 @@
   &__textIntro{
     display: grid;
     grid-column: 9/15;
-    grid-row: 23/24;
+    grid-row: 21/24;
     font-family: map-get($typo, 'text');
     width: auto;
-    padding: 0% 10%;
   }
 
   &__excerptIntro {
@@ -65,7 +64,6 @@
     font-size: 1.3rem;
     text-align: center;
     grid-column: 7/18;
-    // padding-top: 5%;
   }
 
   &__arrowDown{
